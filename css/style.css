@@ -1,0 +1,212 @@
+
+.navbar-brand img{
+    width: 180px ;
+    
+  
+
+}
+
+body{
+    background-image: url(https://d3nn873nee648n.cloudfront.net/900x600/13360/220-SM470189.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+p{
+    font-family:  cursive;
+}
+
+h1{
+    font-family:  cursive;
+}
+
+h2{
+    line-height: 1.9rem;
+    font-family:  cursive;
+}
+
+h3{
+    line-height: 2;
+    font-family:  cursive;
+}
+
+
+.title{
+    color:rgb(255, 255, 255);
+    background-color: rgb(54 53 54 / 7%);
+    /* height: 0px; */
+    text-align: center;
+    padding: 30vh 0;
+    height: 90vh;
+    text-shadow: 2px 2px #ff0000;
+    /* border: solid 2px yellow; */
+    /* border: solid 1px grey; */
+}
+
+/* 
+.top_container{
+    height: 1000px;
+    background-color: white;
+} */
+
+
+.our_specialities{
+    background-color: white;
+    /* background-image: url(https://d3nn873nee648n.cloudfront.net/900x600/17042/120-SM741592.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-attachment: fixed; */
+    padding: 20px;
+    text-align: center;
+    border: 1px solid grey;
+    
+}
+
+.our_specialities h1{
+    margin-bottom: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+.specialities div img{
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.specialities div img:hover{
+    width: 90%;
+    border: solid 2px red;
+}
+
+.specialities div h3{
+    margin: 5px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+
+.specialities div{
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    border: solid 3px white;
+}
+
+.discounts{
+   
+    color: white;
+    background-color: rgba(54, 53, 54, 0.185);
+
+     /* background-image: url(https://d3nn873nee648n.cloudfront.net/900x600/11907/13-CG364706.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-attachment: fixed; */
+    text-align: center;
+    padding: 30px 10px;
+    padding-bottom: 30px;
+    height: 50vh;
+    text-shadow: 2px 2px rgb(255, 0, 43);
+    width: 100%;
+    
+}
+
+.discounts h1,.discounts h3{
+    font-family: 'Dancing Script', cursive;
+}
+
+
+
+.unique_design{
+    
+    
+    /* background-image: url(https://d3nn873nee648n.cloudfront.net/900x600/18655/220-SM849185.jpg); */
+
+background-color: white;
+
+    color: black;
+    /* background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; */
+    border: solid 1px grey;
+    /* text-shadow: 2px 2px yellow; */
+   
+    text-align: center;
+    
+
+    text-align: center;
+    padding: 30px 10px;
+    padding-bottom: 30px;
+    height: 50vh;
+    
+    width: 100%;
+    word-spacing: 7px;
+    
+    
+}
+
+.unique_design h2{
+    font-family: 'Dancing Script', cursive;
+    line-height: 2rem;
+}
+
+
+/* 
+.contact{
+    height: 40vh;
+    padding: 60px 0px;
+    border: solid 1px grey;
+    text-align: center;
+    font-size: 1.3rem;
+    color: red;
+    background-color: rgba(255, 255, 0, 0.575);
+} */
+
+.contact button{
+    text-decoration: none ;
+    padding: 10px 2px;
+    border-style: none;
+}
+
+.bottom_container{
+ 
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 3vh 10px;
+    /* height: 30vh; */
+}
+
+.bottom_container h3{
+    font-family: 'Viaoda Libre', cursive;
+    word-spacing: 5px;
+}
+
+.footer{
+    margin: 0;
+}
+
+.footer img{
+    width: 46px;
+    margin: 10px 15px;
+    padding: 5px  ;
+}
+
+.a{
+    color: yellow;
+    
+}
+
+.footer a:hover{
+    color :tomato
+}
+
+.footer img:hover{
+    background-color: rgba(201, 41, 41, 0.363);
+    border-radius: 20px;
+}
